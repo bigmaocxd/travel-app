@@ -1,0 +1,98 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [
+        {
+          "id": "0001",
+          "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20191/6bdcd1e29c06886d56ed847cd3f75ef6.jpg_750x200_9387edb7.jpg"
+        }, {
+          "id": "0002",
+          "imgUrl": "http://img1.qunarzz.com/piao/fusion/1812/48/5713e2a2ba72f902.jpg_750x200_2b382dac.jpg"
+        }, {
+          "id": "0003",
+          "imgUrl": "http://img1.qunarzz.com/piao/fusion/1811/a8/cb43c4ac6c215d02.jpg_750x200_83dee994.jpg"
+        }
+      ],
+    "iconList": [{
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+        "text": "景点门票"
+      }, {
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+        "text": "一日游"
+      }, {
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+        "text": "城市必游"
+      }, {
+        "id": "0004",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/e3/67df61427c8e1302.png",
+        "text": "茶馆相声"
+      }, {
+        "id": "0005",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/6c/9e54a8540fee0102.png",
+        "text": "故宫"
+      }, {
+        "id": "0006",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/47/c2b659e048b11602.png",
+        "text": "儿童"
+      }, {
+        "id": "0007",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/76/eb88861d78fb9902.png",
+        "text": "动植物园"
+      }, {
+        "id": "0008",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/b2/bfbc5d66e0ab5a02.png",
+        "text": "冰雪世界"
+      }, {
+        "id": "0009",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/ab/6f7d6e44963c9302.png",
+        "text": "泡温泉"
+      }],
+    "recommendList": [{
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/201308/08/41150dacc0e3a0c8c8d65eac.jpg_200x200_c62292e9.jpg",
+        "title": "北京动物园",
+        "desc": "可爱的胖达在等你~"
+
+      }, {
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1709/e4/e48857f2ce5e53a7a3.img.jpg_200x200_8ee069fe.jpg",
+        "title": "远去的恐龙",
+        "desc": "一部不可思议的巨制演艺作品"
+      }, {
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1508/89/895a1b7add84f23faca053ce9e3153db.water.jpg_200x200_99ae30ee.jpg",
+        "title": "北京欢乐谷",
+        "desc": "亚洲唯一飞行式过山车等你来挑战"
+
+      }, {
+        "id": "0004",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1602/67/67feeab24cfc82bb90.water.jpg_200x200_af2a01b1.jpg",
+        "title": "太平洋海底世界",
+        "desc": "漫步海底，欣赏五彩缤纷的海底生物"
+      }, {
+        "id": "0005",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1601/6c/6cf2f668c00ec54190.water.jpg_200x200_e7e22494.jpg",
+        "title": "龙熙温泉",
+        "desc": "一万平米阳光海岸温泉水世界"
+      }],
+    "weekendList": [{
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1811/f3/86173f863bef61.jpg_r_640x214_52b003ac.jpg",
+        "title": "京城周末撒欢",
+        "desc": "在帝都过周末，不仅仅是城中游！"
+      }, {
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1510/6e/1ea71e2f04e.jpg_r_640x214_aa6f091d.jpg",
+        "title": "京城有好泉",
+        "desc": "细数北京温泉，温暖你的冬天"
+      }, {
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1811/7e/476589267ebb41.jpg_r_640x214_bf599709.jpg",
+        "title": "可爱的动物",
+        "desc": "亲近自然，萌动你心(๑•ᴗ•๑)"
+      }]
+  }
+}

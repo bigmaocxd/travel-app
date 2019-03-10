@@ -1,0 +1,27 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "BEIJING ZOO",
+    "bannerImg": "https://i.imgur.com/dR0wDxd.png",
+    "gallaryImgs": ["https://i.imgur.com/dR0wDxd.png", "https://i.imgur.com/f1qfvwE.png"],
+    "categoryList": [{
+        "title": "Adult tickets",
+        "sublist": [{
+          "title": "Adult (single pass)"
+        },{
+          "title": "Adult (full pass)"
+        }]
+      }, {
+        "title": "Student tickets",
+        "sublist": [{
+          "title": "Student (single pass)"
+        },{
+          "title": "Student (full pass)"
+        }]
+      }, {
+        "title": "Children tickets"
+      }, {
+        "title": "Special discount"
+      }]
+  }
+}

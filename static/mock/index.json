@@ -1,0 +1,98 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [
+        {
+          "id": "0001",
+          "imgUrl": "https://i.imgur.com/oVAxsyQ.png"
+        }, {
+          "id": "0002",
+          "imgUrl": "https://i.imgur.com/FPwcIsv.png"
+        }, {
+          "id": "0003",
+          "imgUrl": "https://i.imgur.com/DcDV1wW.png"
+        }
+      ],
+    "iconList": [{
+        "id": "0001",
+        "imgUrl": "https://i.imgur.com/pIkp5iJ.png",
+        "text": "attractions"
+      }, {
+        "id": "0002",
+        "imgUrl": "https://i.imgur.com/IIZDoW8.png",
+        "text": "tickets"
+      }, {
+        "id": "0003",
+        "imgUrl": "https://i.imgur.com/303CMpD.png",
+        "text": "shopping"
+      }, {
+        "id": "0004",
+        "imgUrl": "https://i.imgur.com/9DVmscT.png",
+        "text": "restaurants"
+      }, {
+        "id": "0005",
+        "imgUrl": "https://i.imgur.com/Pb8pqL0.png",
+        "text": "culture"
+      }, {
+        "id": "0006",
+        "imgUrl": "https://i.imgur.com/hFAIm5g.png",
+        "text": "children"
+      }, {
+        "id": "0007",
+        "imgUrl": "https://i.imgur.com/EMpssZh.png",
+        "text": "parks"
+      }, {
+        "id": "0008",
+        "imgUrl": "https://i.imgur.com/VqR8SvA.png",
+        "text": "ski"
+      }, {
+        "id": "0009",
+        "imgUrl": "https://i.imgur.com/3UuHWi9.png",
+        "text": "hot spring"
+      }],
+    "recommendList": [{
+        "id": "0001",
+        "imgUrl": "https://i.imgur.com/dR0wDxd.png",
+        "title": "Beijing Zoo",
+        "desc": "Meet our cuttest panda ~"
+
+      }, {
+        "id": "0002",
+        "imgUrl": "https://i.imgur.com/PhHk7S1.png",
+        "title": "Beihai Park",
+        "desc": "1000-year-old former imperial park"
+      }, {
+        "id": "0003",
+        "imgUrl": "https://i.imgur.com/aR4GrKf.jpg",
+        "title": "Beijing Happy Valley",
+        "desc": "The only flying roller coaster in Asia is waiting for you to challenge"
+
+      }, {
+        "id": "0004",
+        "imgUrl": "https://i.imgur.com/OgG95wT.png",
+        "title": "Pacific Underwater World",
+        "desc": "Stroll along the ocean floor and admire the colorful underwater creatures"
+      }, {
+        "id": "0005",
+        "imgUrl": "https://i.imgur.com/5n4mk6a.jpg",
+        "title": "Longxi hot spring",
+        "desc": "10,000 square meters Sunshine Coast Hot Spring Water World"
+      }],
+    "weekendList": [{
+        "id": "0001",
+        "imgUrl": "https://i.imgur.com/DQFzYHF.jpg",
+        "title": "Discover your weekend life in Beijing",
+        "desc": "Enjoy your time ..."
+      }, {
+        "id": "0002",
+        "imgUrl": "https://i.imgur.com/kmwbUh5.jpg",
+        "title": "Beautiful hot spring in Beijing",
+        "desc": "To warm your cold winter..."
+      }, {
+        "id": "0003",
+        "imgUrl": "https://i.imgur.com/gyismA1.jpg",
+        "title": "Adorable animals",
+        "desc": "Who is your favorite one?(๑•ᴗ•๑)"
+      }]
+  }
+}
